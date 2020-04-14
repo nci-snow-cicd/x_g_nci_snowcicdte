@@ -1,0 +1,14 @@
+{
+  "sys_class_name": "sys_metadata_delete",
+  "sys_created_by": "rizknt@nih.gov",
+  "sys_created_on": "2020-04-14 16:09:37",
+  "sys_id": "cf0d63d16ffe480c9ca7cd37413650c4",
+  "sys_mod_count": 0,
+  "sys_name": "x_g_nci_snowcicdtestapp_task.*.snc_internal",
+  "sys_package": "e1e42e271b44541094edddb6bc4bcbde",
+  "sys_policy": null,
+  "sys_scope": "e1e42e271b44541094edddb6bc4bcbde",
+  "sys_update_name": "sys_security_acl_role_7815ee671b44541094edddb6bc4bcbca",
+  "sys_updated_by": "rizknt@nih.gov",
+  "sys_updated_on": "2020-04-14 16:09:37"
+}

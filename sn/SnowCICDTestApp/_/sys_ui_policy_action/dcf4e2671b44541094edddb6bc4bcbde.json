@@ -1,0 +1,21 @@
+{
+  "cleared": false,
+  "disabled": "ignore",
+  "field": "starting_state",
+  "mandatory": "ignore",
+  "sys_class_name": "sys_ui_policy_action",
+  "sys_created_by": "rizknt@nih.gov",
+  "sys_created_on": "2020-04-14 16:08:59",
+  "sys_id": "dcf4e2671b44541094edddb6bc4bcbde",
+  "sys_mod_count": 0,
+  "sys_name": "starting_state",
+  "sys_package": "e1e42e271b44541094edddb6bc4bcbde",
+  "sys_policy": null,
+  "sys_scope": "e1e42e271b44541094edddb6bc4bcbde",
+  "sys_update_name": "sys_ui_policy_action_dcf4e2671b44541094edddb6bc4bcbde",
+  "sys_updated_by": "rizknt@nih.gov",
+  "sys_updated_on": "2020-04-14 16:08:59",
+  "table": "x_g_nci_snowcicdte_sfstapp_task",
+  "ui_policy": "5cf4e2671b44541094edddb6bc4bcbdc",
+  "visible": false
+}

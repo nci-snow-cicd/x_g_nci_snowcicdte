@@ -1,0 +1,18 @@
+{
+  "directory": "update",
+  "documentkey": "7705aa671b44541094edddb6bc4bcb3b",
+  "payload": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><record_update table=\"cmdb_model_category\">\n    <cmdb_model_category action=\"INSERT_OR_UPDATE\">\n        <allow_as_master>false</allow_as_master>\n        <allow_in_bundle>false</allow_in_bundle>\n        <allow_pre_allocation>false</allow_pre_allocation>\n        <asset_class/>\n        <bundle>false</bundle>\n        <cmdb_ci_class/>\n        <enforce_verification>false</enforce_verification>\n        <name>SnowCICDTestApp Request Template</name>\n        <sys_created_by>rizknt@nih.gov</sys_created_by>\n        <sys_created_on>2020-04-14 16:09:30</sys_created_on>\n        <sys_id>7705aa671b44541094edddb6bc4bcb3b</sys_id>\n        <sys_mod_count>0</sys_mod_count>\n        <sys_updated_by>rizknt@nih.gov</sys_updated_by>\n        <sys_updated_on>2020-04-14 16:09:30</sys_updated_on>\n        <u_description/>\n        <u_display_name>SnowCICDTestApp Request Template</u_display_name>\n        <u_parent/>\n        <u_resource_uri/>\n        <u_taxonomy_id/>\n        <u_type/>\n    </cmdb_model_category>\n</record_update>\n",
+  "sys_class_name": "sys_metadata_link",
+  "sys_created_by": "rizknt@nih.gov",
+  "sys_created_on": "2020-04-14 16:09:46",
+  "sys_id": "bf156aa71b44541094edddb6bc4bcbcb",
+  "sys_mod_count": 0,
+  "sys_name": "SnowCICDTestApp Request Template",
+  "sys_package": "e1e42e271b44541094edddb6bc4bcbde",
+  "sys_policy": null,
+  "sys_scope": "e1e42e271b44541094edddb6bc4bcbde",
+  "sys_update_name": "sys_metadata_link_bf156aa71b44541094edddb6bc4bcbcb",
+  "sys_updated_by": "rizknt@nih.gov",
+  "sys_updated_on": "2020-04-14 16:09:46",
+  "tablename": "cmdb_model_category"
+}
