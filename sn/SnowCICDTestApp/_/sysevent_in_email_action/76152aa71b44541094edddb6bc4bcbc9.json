@@ -1,0 +1,35 @@
+{
+  "action": "record_action",
+  "active": true,
+  "assignment_operator": null,
+  "condition_script": {
+    "____see": "sn\\SnowCICDTestApp\\Inbound Email Actions\\active_true\\Create SnowCICDTestApp Request\\condition_script.js"
+  },
+  "description": "This inbound email action is triggered when an email is sent to this instance, to a mailbox starting with x_g_nci_snowcicdte or with the subject starting with SnowCICDTestApp and the email is not a reply or forward.\r\n\r\nThis inbound email action can create a new SnowCICDTestApp Request, setting the opened by, caller, short description, description, contact type. The original email will be stored in the work notes. \r\n\r\nIn addition to being able to explicitly set the values of the above fields within the email, the following is done automatically:\r\n\r\n1. The caller is set to the the user who sent the email.\r\n2. The email subject is set as the short description.\r\n3. The whole email is added to the work notes.\r\n4. The contact type is set to \"email\".\r\n\r\nExample: \r\nThis email will create a new SnowCICDTestApp Request for Fred Luddy \r\n\r\nFrom: \tFred Luddy <fred.luddy@example.com>\r\nSubject: \tSnowCICDTestApp:I need assistance\r\nDate: \tJune 11, 2013 1:44:55 PM PDT\r\nTo: \t        ServiceNow\r\n\r\nPlease provide me with a ..... \r\n\r\n-----",
+  "event_name": "email.read",
+  "filter_condition": "recipientsLIKEx_g_nci_snowcicdte@^ORsubjectSTARTSWITHSnowCICDTestApp:^EQ",
+  "from": null,
+  "name": "Create SnowCICDTestApp Request",
+  "order": 80,
+  "reply_email": null,
+  "required_roles": null,
+  "script": {
+    "____see": "sn\\SnowCICDTestApp\\Inbound Email Actions\\active_true\\Create SnowCICDTestApp Request\\script.js"
+  },
+  "stop_processing": true,
+  "sys_class_name": "sysevent_in_email_action",
+  "sys_created_by": "rizknt@nih.gov",
+  "sys_created_on": "2020-04-14 16:09:42",
+  "sys_id": "76152aa71b44541094edddb6bc4bcbc9",
+  "sys_mod_count": 0,
+  "sys_name": "Create SnowCICDTestApp Request",
+  "sys_package": "e1e42e271b44541094edddb6bc4bcbde",
+  "sys_policy": null,
+  "sys_scope": "e1e42e271b44541094edddb6bc4bcbde",
+  "sys_update_name": "sysevent_in_email_action_76152aa71b44541094edddb6bc4bcbc9",
+  "sys_updated_by": "rizknt@nih.gov",
+  "sys_updated_on": "2020-04-14 16:09:42",
+  "table": "x_g_nci_snowcicdtestapp_request",
+  "template": "contact_type=email^callerDYNAMIC2fd8e97bef3221002841f7f775c0fbc1^short_descriptionDYNAMICb637bd21ef3221002841f7f775c0fbb6^descriptionDYNAMIC367bf121ef3221002841f7f775c0fbe2^companyDYNAMICd27bf240ef0321002841f7f775c0fbeb^locationDYNAMIC6d418b40ef0321002841f7f775c0fb46^EQ",
+  "type": "new"
+}

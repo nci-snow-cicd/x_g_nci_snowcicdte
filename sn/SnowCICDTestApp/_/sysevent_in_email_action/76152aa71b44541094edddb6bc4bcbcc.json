@@ -1,0 +1,35 @@
+{
+  "action": "record_action",
+  "active": true,
+  "assignment_operator": null,
+  "condition_script": {
+    "____see": "sn\\SnowCICDTestApp\\Inbound Email Actions\\active_true\\Update SnowCICDTestApp Request\\condition_script.js"
+  },
+  "description": "All update emails will be added in the work notes",
+  "event_name": "email.read",
+  "filter_condition": null,
+  "from": null,
+  "name": "Update SnowCICDTestApp Request",
+  "order": 70,
+  "reply_email": null,
+  "required_roles": null,
+  "script": {
+    "____see": "sn\\SnowCICDTestApp\\Inbound Email Actions\\active_true\\Update SnowCICDTestApp Request\\script.js"
+  },
+  "stop_processing": true,
+  "sys_class_name": "sysevent_in_email_action",
+  "sys_created_by": "rizknt@nih.gov",
+  "sys_created_on": "2020-04-14 16:09:42",
+  "sys_id": "76152aa71b44541094edddb6bc4bcbcc",
+  "sys_mod_count": 0,
+  "sys_name": "Update SnowCICDTestApp Request",
+  "sys_package": "e1e42e271b44541094edddb6bc4bcbde",
+  "sys_policy": null,
+  "sys_scope": "e1e42e271b44541094edddb6bc4bcbde",
+  "sys_update_name": "sysevent_in_email_action_76152aa71b44541094edddb6bc4bcbcc",
+  "sys_updated_by": "rizknt@nih.gov",
+  "sys_updated_on": "2020-04-14 16:09:42",
+  "table": "x_g_nci_snowcicdtestapp_request",
+  "template": null,
+  "type": "reply"
+}

@@ -1,0 +1,17 @@
+{
+  "category": "f305aa671b44541094edddb6bc4bcb17",
+  "order": 1,
+  "property": "0805a6671b44541094edddb6bc4bcb8c",
+  "sys_class_name": "sys_properties_category_m2m",
+  "sys_created_by": "rizknt@nih.gov",
+  "sys_created_on": "2020-04-14 16:09:30",
+  "sys_id": "7705aa671b44541094edddb6bc4bcb36",
+  "sys_mod_count": 0,
+  "sys_name": "x_g_nci_snowcicdte.rush.travel.buffer.SnowCICDTestApp Geolocation",
+  "sys_package": "e1e42e271b44541094edddb6bc4bcbde",
+  "sys_policy": null,
+  "sys_scope": "e1e42e271b44541094edddb6bc4bcbde",
+  "sys_update_name": "sys_properties_category_m2m_7705aa671b44541094edddb6bc4bcb36",
+  "sys_updated_by": "rizknt@nih.gov",
+  "sys_updated_on": "2020-04-14 16:09:30"
+}

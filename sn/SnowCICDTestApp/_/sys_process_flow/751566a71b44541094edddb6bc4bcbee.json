@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "condition": "state=3^ORstate=4^ORstate=7^EQ",
+  "description": {
+    "____see": "sn\\SnowCICDTestApp\\Flow Formatter\\active_true\\Complete.xhtml"
+  },
+  "label": "Complete",
+  "name": "Complete",
+  "order": 60,
+  "sys_class_name": "sys_process_flow",
+  "sys_created_by": "rizknt@nih.gov",
+  "sys_created_on": "2020-04-14 16:09:39",
+  "sys_id": "751566a71b44541094edddb6bc4bcbee",
+  "sys_mod_count": 0,
+  "sys_name": "Complete",
+  "sys_package": "e1e42e271b44541094edddb6bc4bcbde",
+  "sys_policy": null,
+  "sys_scope": "e1e42e271b44541094edddb6bc4bcbde",
+  "sys_update_name": "sys_process_flow_751566a71b44541094edddb6bc4bcbee",
+  "sys_updated_by": "rizknt@nih.gov",
+  "sys_updated_on": "2020-04-14 16:09:39",
+  "table": "x_g_nci_snowcicdtestapp_task"
+}

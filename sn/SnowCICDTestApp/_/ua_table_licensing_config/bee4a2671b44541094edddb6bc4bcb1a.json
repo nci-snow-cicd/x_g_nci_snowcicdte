@@ -1,0 +1,23 @@
+{
+  "is_fulfillment": false,
+  "license_condition": null,
+  "license_model": "none",
+  "license_roles": null,
+  "name": "x_g_nci_snowcicdte_sfstapp_request",
+  "op_delete": true,
+  "op_insert": true,
+  "op_update": true,
+  "owner_condition": null,
+  "sys_class_name": "ua_table_licensing_config",
+  "sys_created_by": "rizknt@nih.gov",
+  "sys_created_on": "2020-04-14 16:08:53",
+  "sys_id": "bee4a2671b44541094edddb6bc4bcb1a",
+  "sys_mod_count": 0,
+  "sys_name": "x_g_nci_snowcicdte_sfstapp_request",
+  "sys_package": "e1e42e271b44541094edddb6bc4bcbde",
+  "sys_policy": null,
+  "sys_scope": "e1e42e271b44541094edddb6bc4bcbde",
+  "sys_update_name": "ua_table_licensing_config_bee4a2671b44541094edddb6bc4bcb1a",
+  "sys_updated_by": "rizknt@nih.gov",
+  "sys_updated_on": "2020-04-14 16:08:53"
+}

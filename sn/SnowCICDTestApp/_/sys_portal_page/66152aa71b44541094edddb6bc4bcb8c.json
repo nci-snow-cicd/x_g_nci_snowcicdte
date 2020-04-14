@@ -1,0 +1,23 @@
+{
+  "layout": "f6defafa0a0a0b12000d5016bd12ff06",
+  "order": 850,
+  "read_roles": "x_g_nci_snowcicdte_read",
+  "related_items_node": null,
+  "roles": "x_g_nci_snowcicdte_admin",
+  "selectable": false,
+  "sys_class_name": "sys_portal_page",
+  "sys_created_by": "rizknt@nih.gov",
+  "sys_created_on": "2020-04-14 16:09:42",
+  "sys_id": "66152aa71b44541094edddb6bc4bcb8c",
+  "sys_mod_count": 0,
+  "sys_name": "SnowCICDTestApp Overview",
+  "sys_package": "e1e42e271b44541094edddb6bc4bcbde",
+  "sys_policy": null,
+  "sys_scope": "e1e42e271b44541094edddb6bc4bcbde",
+  "sys_update_name": "sys_portal_page_66152aa71b44541094edddb6bc4bcb8c",
+  "sys_updated_by": "rizknt@nih.gov",
+  "sys_updated_on": "2020-04-14 16:09:42",
+  "title": "SnowCICDTestApp Overview",
+  "user": null,
+  "view": "snowcicdtestapp_overview"
+}
