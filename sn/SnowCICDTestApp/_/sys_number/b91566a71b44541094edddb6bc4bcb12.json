@@ -1,0 +1,18 @@
+{
+  "category": "x_g_nci_snowcicdtestapp_request",
+  "maximum_digits": 7,
+  "number": 1000,
+  "prefix": "SR",
+  "sys_class_name": "sys_number",
+  "sys_created_by": "rizknt@nih.gov",
+  "sys_created_on": "2020-04-14 16:09:38",
+  "sys_id": "b91566a71b44541094edddb6bc4bcb12",
+  "sys_mod_count": 0,
+  "sys_name": "SR",
+  "sys_package": "e1e42e271b44541094edddb6bc4bcbde",
+  "sys_policy": null,
+  "sys_scope": "e1e42e271b44541094edddb6bc4bcbde",
+  "sys_update_name": "sys_number_b91566a71b44541094edddb6bc4bcb12",
+  "sys_updated_by": "rizknt@nih.gov",
+  "sys_updated_on": "2020-04-14 16:09:38"
+}

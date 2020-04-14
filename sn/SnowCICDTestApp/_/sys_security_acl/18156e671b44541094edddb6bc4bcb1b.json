@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "admin_overrides": true,
+  "advanced": true,
+  "condition": "callerDYNAMIC90d1921e5f510100a9ad2572f2b477fe^ORopened_byDYNAMIC90d1921e5f510100a9ad2572f2b477fe^ORopened_forDYNAMIC90d1921e5f510100a9ad2572f2b477fe^EQ",
+  "description": "Caller can edit requested due by in draft.",
+  "name": "x_g_nci_snowcicdtestapp_request.requested_due_by",
+  "operation": "write",
+  "script": {
+    "____see": "sn\\SnowCICDTestApp\\Access Control\\active_true\\record\\x_g_nci_snowcicdtestapp_request.requested_due_by\\write_1.js"
+  },
+  "sys_class_name": "sys_security_acl",
+  "sys_created_by": "rizknt@nih.gov",
+  "sys_created_on": "2020-04-14 16:09:32",
+  "sys_id": "18156e671b44541094edddb6bc4bcb1b",
+  "sys_mod_count": 0,
+  "sys_name": "x_g_nci_snowcicdtestapp_request.requested_due_by",
+  "sys_package": "e1e42e271b44541094edddb6bc4bcbde",
+  "sys_policy": null,
+  "sys_scope": "e1e42e271b44541094edddb6bc4bcbde",
+  "sys_update_name": "sys_security_acl_18156e671b44541094edddb6bc4bcb1b",
+  "sys_updated_by": "rizknt@nih.gov",
+  "sys_updated_on": "2020-04-14 16:09:32",
+  "type": "record"
+}

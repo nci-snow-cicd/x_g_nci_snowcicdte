@@ -1,0 +1,18 @@
+{
+  "dependent_value": null,
+  "element": "state",
+  "hint": "SnowCICDTestApp Request has been cancelled",
+  "inactive": false,
+  "label": "Cancelled",
+  "language": "en",
+  "name": "x_g_nci_snowcicdtestapp_request",
+  "sequence": 9,
+  "sys_created_by": "rizknt@nih.gov",
+  "sys_created_on": "2020-04-14 16:08:50",
+  "sys_id": "0ae462671b44541094edddb6bc4bcb1f",
+  "sys_mod_count": 0,
+  "sys_updated_by": "rizknt@nih.gov",
+  "sys_updated_on": "2020-04-14 16:08:50",
+  "u_dependent_value_2": null,
+  "value": 7
+}

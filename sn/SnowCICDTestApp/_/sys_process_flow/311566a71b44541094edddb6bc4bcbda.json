@@ -1,0 +1,23 @@
+{
+  "active": false,
+  "condition": "state=15^EQ",
+  "description": {
+    "____see": "sn\\SnowCICDTestApp\\Flow Formatter\\active_false\\Awaiting Qualification.xhtml"
+  },
+  "label": "Awaiting Qualification",
+  "name": "Awaiting Qualification",
+  "order": 20,
+  "sys_class_name": "sys_process_flow",
+  "sys_created_by": "rizknt@nih.gov",
+  "sys_created_on": "2020-04-14 16:09:39",
+  "sys_id": "311566a71b44541094edddb6bc4bcbda",
+  "sys_mod_count": 1,
+  "sys_name": "Awaiting Qualification",
+  "sys_package": "e1e42e271b44541094edddb6bc4bcbde",
+  "sys_policy": null,
+  "sys_scope": "e1e42e271b44541094edddb6bc4bcbde",
+  "sys_update_name": "sys_process_flow_311566a71b44541094edddb6bc4bcbda",
+  "sys_updated_by": "rizknt@nih.gov",
+  "sys_updated_on": "2020-04-14 16:09:39",
+  "table": "x_g_nci_snowcicdtestapp_request"
+}

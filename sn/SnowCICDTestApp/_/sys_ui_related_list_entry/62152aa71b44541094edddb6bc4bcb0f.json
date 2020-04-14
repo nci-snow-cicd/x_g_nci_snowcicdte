@@ -1,0 +1,14 @@
+{
+  "filter": null,
+  "list_id": "da15e6a71b44541094edddb6bc4bcbfd",
+  "order_by": null,
+  "position": 2,
+  "related_list": "sm_part_requirement.service_order_task",
+  "sys_class_name": "sys_ui_related_list_entry",
+  "sys_created_by": "rizknt@nih.gov",
+  "sys_created_on": "2020-04-14 16:09:41",
+  "sys_id": "62152aa71b44541094edddb6bc4bcb0f",
+  "sys_mod_count": 0,
+  "sys_updated_by": "rizknt@nih.gov",
+  "sys_updated_on": "2020-04-14 16:09:41"
+}

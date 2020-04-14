@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "admin_overrides": true,
+  "advanced": true,
+  "condition": null,
+  "description": "All SnowCICDTestApp basic users able to edit a SnowCICDTestApp Request can change the Assigned to field.",
+  "name": "x_g_nci_snowcicdtestapp_request.assigned_to",
+  "operation": "write",
+  "script": {
+    "____see": "sn\\SnowCICDTestApp\\Access Control\\active_true\\record\\x_g_nci_snowcicdtestapp_request.assigned_to\\write.js"
+  },
+  "sys_class_name": "sys_security_acl",
+  "sys_created_by": "rizknt@nih.gov",
+  "sys_created_on": "2020-04-14 16:09:31",
+  "sys_id": "8815ea671b44541094edddb6bc4bcb0c",
+  "sys_mod_count": 0,
+  "sys_name": "x_g_nci_snowcicdtestapp_request.assigned_to",
+  "sys_package": "e1e42e271b44541094edddb6bc4bcbde",
+  "sys_policy": null,
+  "sys_scope": "e1e42e271b44541094edddb6bc4bcbde",
+  "sys_update_name": "sys_security_acl_8815ea671b44541094edddb6bc4bcb0c",
+  "sys_updated_by": "rizknt@nih.gov",
+  "sys_updated_on": "2020-04-14 16:09:31",
+  "type": "record"
+}
