@@ -1,0 +1,20 @@
+{
+  "description": null,
+  "event_name": "sr.request.changed",
+  "fired_by": "When the state, assignee, assignment group and work notes are changed",
+  "queue": null,
+  "suffix": null,
+  "sys_class_name": "sysevent_register",
+  "sys_created_by": "rizknt@nih.gov",
+  "sys_created_on": "2020-04-14 16:09:42",
+  "sys_id": "f2152aa71b44541094edddb6bc4bcbc6",
+  "sys_mod_count": 0,
+  "sys_name": "sr.request.changed",
+  "sys_package": "e1e42e271b44541094edddb6bc4bcbde",
+  "sys_policy": null,
+  "sys_scope": "e1e42e271b44541094edddb6bc4bcbde",
+  "sys_update_name": "sysevent_register_f2152aa71b44541094edddb6bc4bcbc6",
+  "sys_updated_by": "rizknt@nih.gov",
+  "sys_updated_on": "2020-04-14 16:09:42",
+  "table": "x_g_nci_snowcicdtestapp_request"
+}

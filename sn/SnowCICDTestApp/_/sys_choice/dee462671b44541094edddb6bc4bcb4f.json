@@ -1,0 +1,18 @@
+{
+  "dependent_value": null,
+  "element": "state",
+  "hint": "Work could not be completed as specified",
+  "inactive": false,
+  "label": "Closed Incomplete",
+  "language": "en",
+  "name": "x_g_nci_snowcicdtestapp_task",
+  "sequence": 6,
+  "sys_created_by": "rizknt@nih.gov",
+  "sys_created_on": "2020-04-14 16:08:51",
+  "sys_id": "dee462671b44541094edddb6bc4bcb4f",
+  "sys_mod_count": 0,
+  "sys_updated_by": "rizknt@nih.gov",
+  "sys_updated_on": "2020-04-14 16:08:51",
+  "u_dependent_value_2": null,
+  "value": 4
+}

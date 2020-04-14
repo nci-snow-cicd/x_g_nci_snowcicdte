@@ -1,0 +1,20 @@
+{
+  "active": true,
+  "angular_module": null,
+  "formatter": "process_flow.xml",
+  "name": "Process Flow",
+  "sys_class_name": "sys_ui_formatter",
+  "sys_created_by": "rizknt@nih.gov",
+  "sys_created_on": "2020-04-14 16:09:38",
+  "sys_id": "bd1566a71b44541094edddb6bc4bcb9e",
+  "sys_mod_count": 0,
+  "sys_name": "Process Flow",
+  "sys_package": "e1e42e271b44541094edddb6bc4bcbde",
+  "sys_policy": null,
+  "sys_scope": "e1e42e271b44541094edddb6bc4bcbde",
+  "sys_update_name": "sys_ui_formatter_bd1566a71b44541094edddb6bc4bcb9e",
+  "sys_updated_by": "rizknt@nih.gov",
+  "sys_updated_on": "2020-04-14 16:09:38",
+  "table": "x_g_nci_snowcicdtestapp_request",
+  "type": "formatter"
+}

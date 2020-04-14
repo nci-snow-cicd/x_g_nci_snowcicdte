@@ -1,0 +1,18 @@
+{
+  "directory": "update",
+  "documentkey": "ed1526a71b44541094edddb6bc4bcbb7",
+  "payload": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><record_update sys_domain=\"global\" table=\"kb_knowledge_base\">\n    <kb_knowledge_base action=\"INSERT_OR_UPDATE\">\n        <active>true</active>\n        <approval_description/>\n        <card_color/>\n        <checklist/>\n        <data_policy display_value=\"Data policy for SnowCICDTestApp Knowledge knowledge base\">e11526a71b44541094edddb6bc4bcbb8</data_policy>\n        <description>A default description for SnowCICDTestApp Knowledge base</description>\n        <disable_category_editing>false</disable_category_editing>\n        <disable_commenting>false</disable_commenting>\n        <disable_suggesting>false</disable_suggesting>\n        <enable_socialqa>true</enable_socialqa>\n        <icon/>\n        <kb_managers/>\n        <kb_version>3</kb_version>\n        <mandatory_fields/>\n        <order/>\n        <owner display_value=\"\">6816f79cc0a8016401c5a33be04be441</owner>\n        <question_annotation/>\n        <retire_workflow display_value=\"Knowledge - Instant Retire\">3d18ef12c30031000096dfdc64d3aeb6</retire_workflow>\n        <sys_created_by>rizknt@nih.gov</sys_created_by>\n        <sys_created_on>2020-04-14 16:09:37</sys_created_on>\n        <sys_domain>global</sys_domain>\n        <sys_id>ed1526a71b44541094edddb6bc4bcbb7</sys_id>\n        <sys_mod_count>0</sys_mod_count>\n        <sys_updated_by>rizknt@nih.gov</sys_updated_by>\n        <sys_updated_on>2020-04-14 16:09:37</sys_updated_on>\n        <table>kb_knowledge</table>\n        <template/>\n        <title>SnowCICDTestApp Knowledge</title>\n        <u_disable_direct_updating>false</u_disable_direct_updating>\n        <workflow display_value=\"Knowledge - Instant Publish\">fbe441019f112100d8f8700c267fcf1a</workflow>\n    </kb_knowledge_base>\n</record_update>\n",
+  "sys_class_name": "sys_metadata_link",
+  "sys_created_by": "rizknt@nih.gov",
+  "sys_created_on": "2020-04-14 16:09:46",
+  "sys_id": "b3156aa71b44541094edddb6bc4bcbde",
+  "sys_mod_count": 0,
+  "sys_name": "SnowCICDTestApp Knowledge",
+  "sys_package": "e1e42e271b44541094edddb6bc4bcbde",
+  "sys_policy": null,
+  "sys_scope": "e1e42e271b44541094edddb6bc4bcbde",
+  "sys_update_name": "sys_metadata_link_b3156aa71b44541094edddb6bc4bcbde",
+  "sys_updated_by": "rizknt@nih.gov",
+  "sys_updated_on": "2020-04-14 16:09:46",
+  "tablename": "kb_knowledge_base"
+}

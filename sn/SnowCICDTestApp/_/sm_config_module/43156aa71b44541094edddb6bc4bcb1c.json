@@ -1,0 +1,19 @@
+{
+  "app_name": "3a152aa71b44541094edddb6bc4bcbc0",
+  "aspect": "service_catalog",
+  "associated_mobile_module": null,
+  "associated_module": "07156aa71b44541094edddb6bc4bcb1a",
+  "on": true,
+  "sys_class_name": "sm_config_module",
+  "sys_created_by": "rizknt@nih.gov",
+  "sys_created_on": "2020-04-14 16:09:44",
+  "sys_id": "43156aa71b44541094edddb6bc4bcb1c",
+  "sys_mod_count": 0,
+  "sys_name": "3a152aa71b44541094edddb6bc4bcbc0",
+  "sys_package": "e1e42e271b44541094edddb6bc4bcbde",
+  "sys_policy": null,
+  "sys_scope": "e1e42e271b44541094edddb6bc4bcbde",
+  "sys_update_name": "sm_config_module_43156aa71b44541094edddb6bc4bcb1c",
+  "sys_updated_by": "rizknt@nih.gov",
+  "sys_updated_on": "2020-04-14 16:09:44"
+}

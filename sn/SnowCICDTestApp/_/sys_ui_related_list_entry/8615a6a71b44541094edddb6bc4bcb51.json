@@ -1,0 +1,14 @@
+{
+  "filter": null,
+  "list_id": "0215a6a71b44541094edddb6bc4bcb4f",
+  "order_by": null,
+  "position": 1,
+  "related_list": "cmdb_model_part_requirement.service_order_task",
+  "sys_class_name": "sys_ui_related_list_entry",
+  "sys_created_by": "rizknt@nih.gov",
+  "sys_created_on": "2020-04-14 16:09:39",
+  "sys_id": "8615a6a71b44541094edddb6bc4bcb51",
+  "sys_mod_count": 0,
+  "sys_updated_by": "rizknt@nih.gov",
+  "sys_updated_on": "2020-04-14 16:09:39"
+}

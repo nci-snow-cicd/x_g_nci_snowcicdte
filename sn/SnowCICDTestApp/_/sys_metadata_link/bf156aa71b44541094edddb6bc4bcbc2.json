@@ -1,0 +1,18 @@
+{
+  "directory": "update",
+  "documentkey": "5cf426671b44541094edddb6bc4bcb05",
+  "payload": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><record_update table=\"sys_user_group\">\n    <sys_user_group action=\"INSERT_OR_UPDATE\">\n        <active>true</active>\n        <average_daily_fte/>\n        <cost_center/>\n        <default_assignee/>\n        <description/>\n        <email/>\n        <exclude_manager>false</exclude_manager>\n        <hourly_rate>0</hourly_rate>\n        <include_members>false</include_members>\n        <manager/>\n        <name>SnowCICDTestApp Dispatchers</name>\n        <parent/>\n        <points>0</points>\n        <roles/>\n        <source/>\n        <sys_created_by>rizknt@nih.gov</sys_created_by>\n        <sys_created_on>2020-04-14 16:08:59</sys_created_on>\n        <sys_id>5cf426671b44541094edddb6bc4bcb05</sys_id>\n        <sys_mod_count>0</sys_mod_count>\n        <sys_updated_by>rizknt@nih.gov</sys_updated_by>\n        <sys_updated_on>2020-04-14 16:08:59</sys_updated_on>\n        <type>10f4e2671b44541094edddb6bc4bcbff</type>\n        <u_co_manager/>\n        <u_group_management_excluded>false</u_group_management_excluded>\n        <vendors/>\n    </sys_user_group>\n</record_update>\n",
+  "sys_class_name": "sys_metadata_link",
+  "sys_created_by": "rizknt@nih.gov",
+  "sys_created_on": "2020-04-14 16:09:46",
+  "sys_id": "bf156aa71b44541094edddb6bc4bcbc2",
+  "sys_mod_count": 0,
+  "sys_name": "SnowCICDTestApp Dispatchers",
+  "sys_package": "e1e42e271b44541094edddb6bc4bcbde",
+  "sys_policy": null,
+  "sys_scope": "e1e42e271b44541094edddb6bc4bcbde",
+  "sys_update_name": "sys_metadata_link_bf156aa71b44541094edddb6bc4bcbc2",
+  "sys_updated_by": "rizknt@nih.gov",
+  "sys_updated_on": "2020-04-14 16:09:46",
+  "tablename": "sys_user_group"
+}
