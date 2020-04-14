@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "before": false,
+  "description": "Automatically builds state flow start and end states",
+  "flush_cache": false,
+  "name": "SnowCICDTestApp State Flow Builder",
+  "record_for_rollback": false,
+  "run_once": false,
+  "script": {
+    "____see": "sn\\SnowCICDTestApp\\Fix Script\\active_true\\SnowCICDTestApp State Flow Builder.js"
+  },
+  "sys_class_name": "sys_script_fix",
+  "sys_created_by": "rizknt@nih.gov",
+  "sys_created_on": "2020-04-14 16:08:59",
+  "sys_id": "d4f4e2671b44541094edddb6bc4bcbe3",
+  "sys_mod_count": 0,
+  "sys_name": "SnowCICDTestApp State Flow Builder",
+  "sys_package": "e1e42e271b44541094edddb6bc4bcbde",
+  "sys_policy": null,
+  "sys_scope": "e1e42e271b44541094edddb6bc4bcbde",
+  "sys_update_name": "sys_script_fix_d4f4e2671b44541094edddb6bc4bcbe3",
+  "sys_updated_by": "rizknt@nih.gov",
+  "sys_updated_on": "2020-04-14 16:08:59",
+  "unloadable": false
+}

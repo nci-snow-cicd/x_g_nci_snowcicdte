@@ -1,0 +1,18 @@
+{
+  "dependent_value": null,
+  "element": "state",
+  "hint": "SnowCICDTestApp Request initiator is not done describing the work",
+  "inactive": false,
+  "label": "Draft",
+  "language": "en",
+  "name": "x_g_nci_snowcicdtestapp_task",
+  "sequence": 0,
+  "sys_created_by": "rizknt@nih.gov",
+  "sys_created_on": "2020-04-14 16:08:51",
+  "sys_id": "4ae462671b44541094edddb6bc4bcb25",
+  "sys_mod_count": 0,
+  "sys_updated_by": "rizknt@nih.gov",
+  "sys_updated_on": "2020-04-14 16:08:51",
+  "u_dependent_value_2": null,
+  "value": 1
+}

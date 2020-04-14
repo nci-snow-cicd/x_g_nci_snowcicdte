@@ -1,0 +1,23 @@
+{
+  "layout": "f6defafa0a0a0b12000d5016bd12ff06",
+  "order": null,
+  "read_roles": "snc_internal",
+  "related_items_node": null,
+  "roles": null,
+  "selectable": false,
+  "sys_class_name": "sys_portal_page",
+  "sys_created_by": "rizknt@nih.gov",
+  "sys_created_on": "2020-04-14 16:09:37",
+  "sys_id": "291526a71b44541094edddb6bc4bcb60",
+  "sys_mod_count": 0,
+  "sys_name": "catalog_snowcicdtestapp_catalog",
+  "sys_package": "e1e42e271b44541094edddb6bc4bcbde",
+  "sys_policy": null,
+  "sys_scope": "e1e42e271b44541094edddb6bc4bcbde",
+  "sys_update_name": "sys_portal_page_291526a71b44541094edddb6bc4bcb60",
+  "sys_updated_by": "rizknt@nih.gov",
+  "sys_updated_on": "2020-04-14 16:09:37",
+  "title": "catalog_snowcicdtestapp_catalog",
+  "user": null,
+  "view": "catalog_snowcicdtestapp_catalog"
+}

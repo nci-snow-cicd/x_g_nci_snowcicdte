@@ -1,0 +1,16 @@
+{
+  "contains": "274476bec3632000c111113e5bba8f77",
+  "role": "d6e462671b44541094edddb6bc4bcb5b",
+  "sys_class_name": "sys_user_role_contains",
+  "sys_created_by": "rizknt@nih.gov",
+  "sys_created_on": "2020-04-14 16:08:52",
+  "sys_id": "e2e462671b44541094edddb6bc4bcbe1",
+  "sys_mod_count": 0,
+  "sys_name": "skill_model_admin.x_g_nci_snowcicdte_admin",
+  "sys_package": "e1e42e271b44541094edddb6bc4bcbde",
+  "sys_policy": null,
+  "sys_scope": "e1e42e271b44541094edddb6bc4bcbde",
+  "sys_update_name": "sys_user_role_contains_e2e462671b44541094edddb6bc4bcbe1",
+  "sys_updated_by": "rizknt@nih.gov",
+  "sys_updated_on": "2020-04-14 16:08:52"
+}

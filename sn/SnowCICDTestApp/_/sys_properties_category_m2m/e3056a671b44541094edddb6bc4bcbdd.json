@@ -1,0 +1,17 @@
+{
+  "category": "af056a671b44541094edddb6bc4bcbdb",
+  "order": 1,
+  "property": "17f466671b44541094edddb6bc4bcbe7",
+  "sys_class_name": "sys_properties_category_m2m",
+  "sys_created_by": "rizknt@nih.gov",
+  "sys_created_on": "2020-04-14 16:09:29",
+  "sys_id": "e3056a671b44541094edddb6bc4bcbdd",
+  "sys_mod_count": 0,
+  "sys_name": "x_g_nci_snowcicdte.max.agents.processed.SnowCICDTestApp Dispatch",
+  "sys_package": "e1e42e271b44541094edddb6bc4bcbde",
+  "sys_policy": null,
+  "sys_scope": "e1e42e271b44541094edddb6bc4bcbde",
+  "sys_update_name": "sys_properties_category_m2m_e3056a671b44541094edddb6bc4bcbdd",
+  "sys_updated_by": "rizknt@nih.gov",
+  "sys_updated_on": "2020-04-14 16:09:29"
+}
