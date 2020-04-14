@@ -1,0 +1,11 @@
+{
+  "name": "renderer",
+  "portal_section": "32152aa71b44541094edddb6bc4bcb91",
+  "sys_created_by": "rizknt@nih.gov",
+  "sys_created_on": "2020-04-14 16:09:42",
+  "sys_id": "fa152aa71b44541094edddb6bc4bcb91",
+  "sys_mod_count": 0,
+  "sys_updated_by": "rizknt@nih.gov",
+  "sys_updated_on": "2020-04-14 16:09:42",
+  "value": "com.glide.ui.portal.RenderDashboard"
+}
