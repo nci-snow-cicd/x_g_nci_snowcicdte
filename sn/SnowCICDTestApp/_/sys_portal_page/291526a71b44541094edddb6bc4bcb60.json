@@ -2,6 +2,7 @@
   "layout": "f6defafa0a0a0b12000d5016bd12ff06",
   "order": null,
   "read_roles": "snc_internal",
+  "related_items_node": null,
   "roles": null,
   "selectable": false,
   "sys_class_name": "sys_portal_page",

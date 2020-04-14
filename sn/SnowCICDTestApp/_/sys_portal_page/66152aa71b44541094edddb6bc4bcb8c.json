@@ -2,6 +2,7 @@
   "layout": "f6defafa0a0a0b12000d5016bd12ff06",
   "order": 850,
   "read_roles": "x_g_nci_snowcicdte_read",
+  "related_items_node": null,
   "roles": "x_g_nci_snowcicdte_admin",
   "selectable": false,
   "sys_class_name": "sys_portal_page",
