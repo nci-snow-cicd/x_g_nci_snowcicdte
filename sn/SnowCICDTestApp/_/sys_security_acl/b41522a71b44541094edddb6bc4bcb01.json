@@ -1,0 +1,25 @@
+{
+  "active": true,
+  "admin_overrides": true,
+  "advanced": true,
+  "condition": null,
+  "description": "Basic users can edit all fields in a SnowCICDTestApp Task until agent takes the task, other than those locked in other ACLs",
+  "name": "x_g_nci_snowcicdtestapp_task.*",
+  "operation": "write",
+  "script": {
+    "____see": "sn\\SnowCICDTestApp\\Access Control\\active_true\\record\\x_g_nci_snowcicdtestapp_task\\write.js"
+  },
+  "sys_class_name": "sys_security_acl",
+  "sys_created_by": "rizknt@nih.gov",
+  "sys_created_on": "2020-04-14 16:09:34",
+  "sys_id": "b41522a71b44541094edddb6bc4bcb01",
+  "sys_mod_count": 0,
+  "sys_name": "x_g_nci_snowcicdtestapp_task.*",
+  "sys_package": "e1e42e271b44541094edddb6bc4bcbde",
+  "sys_policy": null,
+  "sys_scope": "e1e42e271b44541094edddb6bc4bcbde",
+  "sys_update_name": "sys_security_acl_b41522a71b44541094edddb6bc4bcb01",
+  "sys_updated_by": "rizknt@nih.gov",
+  "sys_updated_on": "2020-04-14 16:09:34",
+  "type": "record"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "x_g_nci_snowcicdtestapp_task_template",
+  "roles": null,
+  "sys_class_name": "sys_ui_form",
+  "sys_created_by": "rizknt@nih.gov",
+  "sys_created_on": "2020-04-14 16:09:39",
+  "sys_id": "4e15a6a71b44541094edddb6bc4bcb23",
+  "sys_mod_count": 0,
+  "sys_name": "x_g_nci_snowcicdtestapp_task_template",
+  "sys_package": "e1e42e271b44541094edddb6bc4bcbde",
+  "sys_policy": null,
+  "sys_scope": "e1e42e271b44541094edddb6bc4bcbde",
+  "sys_update_name": "sys_ui_form_sections_4e15a6a71b44541094edddb6bc4bcb23",
+  "sys_updated_by": "rizknt@nih.gov",
+  "sys_updated_on": "2020-04-14 16:09:39",
+  "view": "Default view",
+  "view_name": null
+}

@@ -1,0 +1,15 @@
+{
+  "sys_class_name": "sys_security_acl_role",
+  "sys_created_by": "rizknt@nih.gov",
+  "sys_created_on": "2020-04-14 16:09:35",
+  "sys_id": "051522a71b44541094edddb6bc4bcbda",
+  "sys_mod_count": 0,
+  "sys_name": "x_g_nci_snowcicdtestapp_task.priority.x_g_nci_snowcicdte_basic",
+  "sys_package": "e1e42e271b44541094edddb6bc4bcbde",
+  "sys_policy": null,
+  "sys_scope": "e1e42e271b44541094edddb6bc4bcbde",
+  "sys_update_name": "sys_security_acl_role_051522a71b44541094edddb6bc4bcbda",
+  "sys_updated_by": "rizknt@nih.gov",
+  "sys_updated_on": "2020-04-14 16:09:35",
+  "transaction_id": null
+}

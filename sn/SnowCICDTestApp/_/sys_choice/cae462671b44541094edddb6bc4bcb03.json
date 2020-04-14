@@ -1,0 +1,18 @@
+{
+  "dependent_value": null,
+  "element": "state",
+  "hint": "SnowCICDTestApp Request is fully qualified but work has not started yet",
+  "inactive": false,
+  "label": "Ready",
+  "language": "en",
+  "name": "x_g_nci_snowcicdtestapp_request",
+  "sequence": 4,
+  "sys_created_by": "rizknt@nih.gov",
+  "sys_created_on": "2020-04-14 16:08:50",
+  "sys_id": "cae462671b44541094edddb6bc4bcb03",
+  "sys_mod_count": 0,
+  "sys_updated_by": "rizknt@nih.gov",
+  "sys_updated_on": "2020-04-14 16:08:50",
+  "u_dependent_value_2": null,
+  "value": 10
+}
